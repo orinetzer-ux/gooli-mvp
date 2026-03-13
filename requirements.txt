@@ -2,3 +2,4 @@ streamlit
 pandas
 phonenumbers
 jellyfish
+icalendar
